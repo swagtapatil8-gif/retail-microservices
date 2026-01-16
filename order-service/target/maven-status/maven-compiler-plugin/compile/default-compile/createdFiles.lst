@@ -1,0 +1,10 @@
+com/retail/dto/ProductDto.class
+com/retail/event/OrderCreatedEvent.class
+com/retail/controller/OrderController.class
+com/retail/client/ProductClient.class
+com/retail/OrderApplication.class
+com/retail/entity/Order.class
+com/retail/dto/CreateOrderRequest.class
+com/retail/service/OrderService.class
+com/retail/repository/OrderRepository.class
+com/retail/kafka/OrderEventProducer.class

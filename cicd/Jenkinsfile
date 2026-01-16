@@ -1,0 +1,11 @@
+
+pipeline {
+ stages {
+  stage('Build') {
+   steps { sh 'mvn clean package' }
+  }
+  stage('Docker') {
+   steps { sh 'docker build -t order-service .' }
+  }
+ }
+}

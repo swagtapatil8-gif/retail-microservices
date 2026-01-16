@@ -1,0 +1,6 @@
+com/retail/TestController.class
+com/retail/service/ProductService.class
+com/retail/entity/Product.class
+com/retail/controller/ProductController.class
+com/retail/ProductApplication.class
+com/retail/repo/ProductRepository.class

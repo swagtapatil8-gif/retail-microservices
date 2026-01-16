@@ -1,0 +1,10 @@
+/Users/swagata/Downloads/retail-microservices-ALL/order-service/src/main/java/com/retail/repository/OrderRepository.java
+/Users/swagata/Downloads/retail-microservices-ALL/order-service/src/main/java/com/retail/dto/ProductDto.java
+/Users/swagata/Downloads/retail-microservices-ALL/order-service/src/main/java/com/retail/kafka/OrderEventProducer.java
+/Users/swagata/Downloads/retail-microservices-ALL/order-service/src/main/java/com/retail/client/ProductClient.java
+/Users/swagata/Downloads/retail-microservices-ALL/order-service/src/main/java/com/retail/dto/CreateOrderRequest.java
+/Users/swagata/Downloads/retail-microservices-ALL/order-service/src/main/java/com/retail/entity/Order.java
+/Users/swagata/Downloads/retail-microservices-ALL/order-service/src/main/java/com/retail/OrderApplication.java
+/Users/swagata/Downloads/retail-microservices-ALL/order-service/src/main/java/com/retail/service/OrderService.java
+/Users/swagata/Downloads/retail-microservices-ALL/order-service/src/main/java/com/retail/event/OrderCreatedEvent.java
+/Users/swagata/Downloads/retail-microservices-ALL/order-service/src/main/java/com/retail/controller/OrderController.java

@@ -1,0 +1,6 @@
+/Users/swagata/Downloads/retail-microservices-ALL/inventory-service/src/main/java/com/retail/entity/Inventory.java
+/Users/swagata/Downloads/retail-microservices-ALL/inventory-service/src/main/java/com/retail/config/KafkaConsumerConfig.java
+/Users/swagata/Downloads/retail-microservices-ALL/inventory-service/src/main/java/com/retail/kafka/OrderEventConsumer.java
+/Users/swagata/Downloads/retail-microservices-ALL/inventory-service/src/main/java/com/retail/kafka/OrderConsumer.java
+/Users/swagata/Downloads/retail-microservices-ALL/inventory-service/src/main/java/com/retail/repository/InventoryRepository.java
+/Users/swagata/Downloads/retail-microservices-ALL/inventory-service/src/main/java/com/retail/InventoryApplication.java
