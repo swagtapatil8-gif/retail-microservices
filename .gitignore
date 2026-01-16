@@ -1,0 +1,24 @@
+# Maven
+target/
+**/target/
+
+# Logs
+*.log
+
+# IDE
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Docker
+*.env
+
+# H2
+*.mv.db
+*.trace.db
+
