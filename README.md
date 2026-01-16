@@ -18,3 +18,4 @@ RUN ORDER (LOCAL)
 5) sales-batch-service (optional)
 
 Each file contains LINE-BY-LINE COMMENTS.
+# trigger ci
