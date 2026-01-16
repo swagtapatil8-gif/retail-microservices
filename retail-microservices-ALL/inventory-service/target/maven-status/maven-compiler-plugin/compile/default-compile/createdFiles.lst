@@ -1,0 +1,6 @@
+com/retail/entity/Inventory.class
+com/retail/config/KafkaConsumerConfig.class
+com/retail/kafka/OrderConsumer.class
+com/retail/InventoryApplication.class
+com/retail/kafka/OrderEventConsumer.class
+com/retail/repository/InventoryRepository.class
